@@ -1,4 +1,5 @@
 ### Hi there 👋
+### I'm a Computer Science student from Concordia University, Montreal
 ### Check out my Projects:
 Pet Adoption Website: [here](https://users.encs.concordia.ca/~a_nuckch/Pet%20Adoption%20Website/index.html).      
 <!--
