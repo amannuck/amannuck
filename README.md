@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### Check out my Projects:
-### - Pet Adoption Website: https://users.encs.concordia.ca/~a_nuckch/Pet%20Adoption%20Website/index.html
+### - Pet Adoption Website: [here] (https://users.encs.concordia.ca/~a_nuckch/Pet%20Adoption%20Website/index.html).      
 <!--
 **amannuck/amannuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
