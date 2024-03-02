@@ -1,7 +1,8 @@
 ### Hi there 👋
 ### I'm a keen Computer Science student at Concordia University, Montreal.
 ### Check out my Projects:
-* Pet Adoption Website : [here](https://amannuck.github.io/pet-adoption.github.io/)     
+* Pet Adoption Website : [here](https://amannuck.github.io/pet-adoption.github.io/)
+* UI/UX Case Study on Physical & Mental Wellness app: [here](https://quilled-egg-abb.notion.site/Case-Study-UX-UI-Design-of-a-Physical-Mental-Wellness-App-ActivePal-0f74b3091f6e4022ba309396d6b7a7aa) 
 <!--
 **amannuck/amannuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
