@@ -1,6 +1,8 @@
 ### Hi there 👋
 ### I'm a keen Computer Science student at Concordia University, Montreal.
-### Check out my Projects:
+### Check out my Projects/Contributions:
+* DiscountFinder: [here](https://github.com/ryandela44/soen357Project)
+* Education-Mind.A.I.lytics: [here](https://github.com/yogurtshake/COMP-472-Project)
 * UI/UX Case Study on Physical & Mental Wellness app: [here](https://quilled-egg-abb.notion.site/Case-Study-UX-UI-Design-of-a-Physical-Mental-Wellness-App-ActivePal-0f74b3091f6e4022ba309396d6b7a7aa) 
 <!--
 **amannuck/amannuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
