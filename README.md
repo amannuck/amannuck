@@ -4,7 +4,8 @@
 ## 1. DiscountFinder 
 A web application designed to help users locate discounts in their vicinity and on items of interest. The platform leverages geographical data to present the most relevant discounts, ensuring users can access savings effortlessly.
 
-**Link to project**: [here](https://github.com/ryandela44/soen357Project)
+**Link to project**: [here]([https://github.com/ryandela44/soen357Project](https://euphonious-gingersnap-7a197c.netlify.app/))
+**Link to repository**: [here](https://github.com/amannuck/discount-finder)
 
 ## 2. Education-Mind.A.I.lytics
 A Deep Learning Convolutional Neural Network (CNN) using PyTorch that can analyze images of students able to analyze images in
